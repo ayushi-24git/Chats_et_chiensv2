@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dogcat</string>
+    <string name="permission_camera">camera</string>
+    <string name="permission_storage">file</string>
+</resources>
